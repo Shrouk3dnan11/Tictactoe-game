@@ -1,2 +1,2 @@
 # Tictactoe-game
-SinglePlayerView.java &amp; Client for tictactoe game
+SinglePlayerView.java &amp; Client.java for tictactoe game
